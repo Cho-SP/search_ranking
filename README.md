@@ -20,7 +20,7 @@
 ------------
 node.js의 cheerio npm을 활용하여 네이버와 다음의 실시간 검색어 데이터를 파싱하고 클라이언트 상에서 보여줍니다. 검색어를 클릭하면 바로 해당 검색엔진의 검색어로 들어갑니다.
 
-###Running your Machine
+### Running your Machine
 
 ------------
 
