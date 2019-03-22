@@ -1,0 +1,101 @@
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,
+code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,
+form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,
+figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video{
+  margin:0;
+  padding:0;
+  border:0;
+  outline:0;
+  font-size:100%;
+  vertical-align:baseline;
+  background:transparent;
+}
+li{
+  list-style-type:none;
+  font-family: 'Do Hyeon', sans-serif;
+  font-size:20px;
+}
+body{
+  background-color:#e7e7e7;
+}
+header{
+  width:100%;
+  height:120px;
+  margin:0 0 50px 0;
+  display:inline-block;
+  background-color:#ffffff;
+}
+.naver{
+  margin:0 0 0 313px;
+  padding:30px 0 0 0;
+  width:300px;
+  height:400px;
+  position:absolute;
+  display:inline-block;
+  background-color:#ffffff;
+}
+.daum{
+  margin:0 0 0 913px;
+  padding:30px 0 0 0;
+  width:300px;
+  height:400px;
+  position:absolute;
+  display:inline-block;
+  background-color:#ffffff;
+}
+h1{
+  font-family: 'Staatliches', cursive;
+  font-size:70px;
+  margin:20px 0 0 0;
+}
+h2{
+  font-family: 'Staatliches', cursive;
+  font-size:55px;
+}
+a{
+  text-decoration:none;
+  color:#000000;
+}
+a:hover{
+  color:#2f00ff;
+  text-decoration:underline;
+}
+.na{
+  color:#28ca00;
+  text-decoration:none;
+}
+.na:hover{
+  color:#28ca00;
+}
+.na:visit{
+  color:#28ca00;
+}
+.na:active{
+  color:#28ca00;
+}
+.da{
+  color:#723bf1;
+}
+.da:hover{
+  color:#723bf1;
+}
+.da:visit{
+  color:#723bf1;
+}
+da.active{
+  color:#723bf1;
+}
+.naver-title{
+  color:#28ca00;
+}
+.daum-title{
+  color:#723bf1;
+}
+
+footer{
+  width:100%;
+  height:20px;
+  margin:465px 0 0 0;
+  display:inline-block;
+  background-color:#ffffff;
+}
